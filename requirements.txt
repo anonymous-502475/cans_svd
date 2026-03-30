@@ -1,0 +1,5 @@
+jax[cuda]==0.8.1
+numpy
+tqdm
+pandas
+scipy
